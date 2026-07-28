@@ -66,9 +66,9 @@ GROQ\_API\_KEY=your\_groq\_api\_key\_here
 
 ELEVENLABS\_API\_KEY=your\_elevenlabs\_api\_key\_here
 
-TWILIO_ACCOUNT_SID=api\_key\_here
+TWILIO\_ACCOUNT\_SID=api\_key\_here
 
-TWILIO_AUTH_TOKEN=api\_key\_here
+TWILIO\_AUTH\_TOKEN=api\_key\_here
 
 ```
 
